@@ -10,15 +10,9 @@
 <p align="left">
 - 🤝 I’m looking to collaborate on any cool projects.
     <br>
-- 💬 Total nerd for -> Computers, cars and games with that shiny rbg's turned on.
+- 💬 Total nerd -> Computers, cars and games with that shiny rbg's turned on.
     <br>
-- 😄 Pronouns: he/him/his/the (if you can use it in some grammatically correct way)
-    <br>
-- ⚡ Fun fact: Truly believes that India is democratic.
-    <br>
-    
-- 📫 How to reach me: <a href="https://www.instagram.com/parishkar_9790/"><img src="https://img.icons8.com/fluency/24/000000/instagram-new.png"/></a> --
-    <a href="https://www.linkedin.com/in/parishkar-singh-831a211b5/"><img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/></a>
+- ⚡ Fun fact: I sometime talk in C++.
     <br>
  </p>
 <h2 align="left">My GitHub Stats -></h2>
@@ -26,7 +20,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
 
 <br>
-<h2 align="left">Top Technologies i have used -></h2>
+<h2 align="left">Top Languages -></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -52,5 +46,5 @@
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>
-        
-<h3 align="right">_______<a href="https://www.instagram.com/parishkar_9790/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <a href="https://www.linkedin.com/in/parishkar-singh-831a211b5/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> <a href="https://discordapp.com/users/parishkar#2941"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>_______</h3>
+<h2 align="left">Lets Connect! 🤟🏻 </h2>   
+<h3 align="center"><a href="https://www.instagram.com/parishkar_9790/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <a href="https://www.linkedin.com/in/parishkar-singh-831a211b5/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> <a href="https://discordapp.com/users/parishkar#2941"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a></h3>
