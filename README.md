@@ -8,11 +8,12 @@ parishkar@ubuntu:$ cmatrix
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
 
 
-My Github Stats
+<h2 align="left">My GitHub Stats -></h2>
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
 <br>
 My top Languages
+<h2 align="left">Top Technologies i have used -></h2>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
 
