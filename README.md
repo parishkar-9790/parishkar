@@ -9,10 +9,11 @@ parishkar@ubuntu:$ cmatrix
 
 
 My Github Stats
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
-
+<br>
 My top Languages
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Technologies and Skill's -></h2>
@@ -37,4 +38,3 @@ My top Languages
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>
-    
