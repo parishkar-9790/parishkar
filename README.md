@@ -1,5 +1,10 @@
 <h2 align="left">Hey there👋, I am parishkar singh. Hope you enjoy your time here! 🤖 </h2>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/parishkar-9790/count.svg" />
+</p>
+
 <i>parishkar@ubuntu: $</i> sudo apt-get install cmatrix
     
 <i>parishkar@ubuntu: $</i> cmatrix
