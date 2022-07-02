@@ -1,7 +1,13 @@
 ### Hey! This is parishkar singh!
 
-My Github Stats
+parishkar@ubuntu:~$ sudo apt-get install cmatrix
+parishkar@ubuntu:~$ cmatrix
+
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
+![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
+
+
+My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
 
 My top Languages
@@ -30,3 +36,4 @@ My top Languages
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>
+    
