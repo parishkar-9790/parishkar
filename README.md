@@ -1,4 +1,4 @@
-<h2 align="left">Hey there👋, I am parishkar singh. Hope you enjoy your time here! 🤖 </h2>
+<h1 align="left">Hey there👋, I am parishkar singh. Hope you enjoy your time here! 🤖 </h1>
 
 <i>parishkar@ubuntu: $</i> sudo apt-get install cmatrix
     
