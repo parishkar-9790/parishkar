@@ -1,30 +1,29 @@
 <h2 align="left">Hey there👋, I am parishkar singh. Hope you enjoy your time here! 🤖 </h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/parishkar-9790/count.svg" />
-</p>
-
 <i>parishkar@ubuntu: $</i> sudo apt-get install cmatrix
     
 <i>parishkar@ubuntu: $</i> cmatrix
 
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
-<br>
+
+<p align="left"> 
+  Profile Views ( Let's break the counter together! )<br><br>
+  <img src="https://profile-counter.glitch.me/parishkar-9790/count.svg" />
+</p>
+
 <h2 align="left">ME!</h2>
 <p align="left">
 - 🤝 I’m looking to collaborate on any cool projects.
     <br>
 - 💬 Total nerd -> Computers, cars and games with that shiny rbg's turned on.
     <br>
-- ⚡ Fun fact: I sometime talk in C++.
+- ⚡ Fun fact: I sometimes talk in C++.
     <br>
  </p>
 <h2 align="left">My GitHub Stats -></h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
 
-<br>
 <h2 align="left">Top Languages -></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
