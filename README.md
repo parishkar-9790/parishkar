@@ -1,7 +1,7 @@
 ### Hey! This is parishkar singh!
 
-parishkar@ubuntu:~$ sudo apt-get install cmatrix
-parishkar@ubuntu:~$ cmatrix
+parishkar@ubuntu:$ sudo apt-get install cmatrix
+parishkar@ubuntu:$ cmatrix
 
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
