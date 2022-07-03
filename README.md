@@ -50,5 +50,6 @@
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>
-<h2 align="left">Lets Connect! 🤟🏻 </h2>   
-<h3 align="center"><a href="https://www.instagram.com/parishkar_9790/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <a href="https://www.linkedin.com/in/parishkar-singh-831a211b5/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> <a href="https://discordapp.com/users/parishkar#2941"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a></h3>
+<h2 align="left">Here i am! 🤟🏻 </h2>   
+<h3 align="center"><a href="https://www.instagram.com/parishkar_9790/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <a href="https://www.linkedin.com/in/parishkar-singh-831a211b5/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> <a href="https://discordapp.com/users/parishkar#2941"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a> <a href="https://www.hackerrank.com/parishkar_9790"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a> <a href="https://leetcode.com/parishkar9790/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a> <a href="https://www.codechef.com/users/parishkar9790"><img src="https://img.icons8.com/plasticine/48/000000/codechef.png"/></a>
+</h3>
