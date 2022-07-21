@@ -19,6 +19,8 @@
     <br>
 - ⚡ Fun fact: I sometimes talk in C++.
     <br>
+- ⭐ 3 Star Codechef.  
+    <br>
  </p>
 <h2 align="left">My GitHub Stats -></h2>
 
