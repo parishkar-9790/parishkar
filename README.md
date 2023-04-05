@@ -26,9 +26,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
 
-<h2 align="left">Top Languages -></h2>
+<!-- <h2 align="left">Top Languages -></h2> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h2 align="left">Technologies and Skill's -></h2>
 <p align="left">
