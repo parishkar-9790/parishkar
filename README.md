@@ -25,7 +25,7 @@
 <h2 align="left">My GitHub Stats -></h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
-(https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false)
 
 <!-- <h2 align="left">Top Languages -></h2> -->
 
