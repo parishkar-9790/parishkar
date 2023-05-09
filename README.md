@@ -25,7 +25,7 @@
     <br>
  </p>
 <h2 align="center">My GitHub Stats -></h2>
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row;">
     <img class='img' src="https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical"/>
     <img class='img' src="https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false"/>
 </div>
@@ -33,7 +33,7 @@
 
 <!-- <h2 align="left">Top Languages -></h2> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Technologies and Skill's -></h2>
 <p align="center">
