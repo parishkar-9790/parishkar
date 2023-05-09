@@ -1,8 +1,8 @@
 <h1 align="left">Hey there👋, I am parishkar singh. Hope you enjoy your time here! 🤖 </h1>
 
-<p align="center">parishkar@ubuntu: $</p> sudo apt-get install cmatrix
+<p align="center">parishkar@ubuntu: $ sudo apt-get install cmatrix</p> 
     
-<p align="center">parishkar@ubuntu: $</p> cmatrix
+<p align="center">parishkar@ubuntu: $ cmatrix</p> 
 
 <p align="center">
   <img src="https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g" alt="animated" />
