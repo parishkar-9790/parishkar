@@ -28,12 +28,13 @@
 <div align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 
 <!-- <h2 align="left">Top Languages -></h2> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="center">Technologies and Skill's -></h2>
 <p align="center">
