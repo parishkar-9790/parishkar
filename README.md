@@ -4,6 +4,10 @@
     
 <i align="center">parishkar@ubuntu: $</i> cmatrix
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g" alt="animated" />
+</p>
+
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
 
 <p align="center"> 
