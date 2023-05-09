@@ -6,13 +6,13 @@
 
 ![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
 
-<p align="left"> 
+<p align="center"> 
   Profile Views <br><br>
   <img src="https://profile-counter.glitch.me/parishkar-9790/count.svg" />
 </p>
 
-<h2 align="left">ME!</h2>
-<p align="left">
+<h2 align="center">ME!</h2>
+<p align="center">
 - 🤝 I’m looking to collaborate on any cool projects.
     <br>
 - 💬 Total nerd -> Computers, cars and games with that shiny rbg's turned on.
@@ -22,17 +22,17 @@
 - ⭐ 3 Star Codechef.  
     <br>
  </p>
-<h2 align="left">My GitHub Stats -></h2>
-
+<h2 align="center">My GitHub Stats -></h2>
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false)
-
+</div>
 <!-- <h2 align="left">Top Languages -></h2> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parishkar-9790)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2 align="left">Technologies and Skill's -></h2>
-<p align="left">
+<h2 align="center">Technologies and Skill's -></h2>
+<p align="center">
     <a href="#"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
@@ -53,7 +53,7 @@
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 </p>
-<h2 align="left">Here i am! 🤟🏻 </h2>   
+<h2 align="center">Here i am! 🤟🏻 </h2>   
 <h3 align="center"><a href="https://www.instagram.com/parishkar_9790/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <a href="https://www.linkedin.com/in/parishkar-singh-831a211b5/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> <a href="https://discordapp.com/users/parishkar#2941"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a> <a href="https://www.hackerrank.com/parishkar_9790"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a> <a href="https://leetcode.com/parishkar9790/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a> <a href="https://www.codechef.com/users/parishkar9790"><img src="https://img.icons8.com/plasticine/48/000000/codechef.png"/></a>
 </h3>
 
