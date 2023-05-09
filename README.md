@@ -8,8 +8,6 @@
   <img src="https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
-![giphy](https://media1.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47s4j6v85yremzbzp79zuii26hq7s3ciafymwfsdc7&rid=giphy.gif&ct=g)
-
 <p align="center"> 
   Profile Views <br><br>
   <img src="https://profile-counter.glitch.me/parishkar-9790/count.svg" />
