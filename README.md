@@ -26,8 +26,8 @@
  </p>
 <h2 align="center">My GitHub Stats -></h2>
 <div style="display: flex; flex-direction: row;">
-    <img class='img' src="https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical"/>
-    <img class='img' src="https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=parishkar-9790&theme=radical"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parishkar-9790&theme=dark&hide_border=false"/>
 </div>
 
 
